@@ -2,7 +2,7 @@
 - 👀 I’m interested in python.
 - 🌱 I’m currently learning life.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ....my height is about 6 feet , i thing u need to be attain more to reach me.
+- 📫 How to reach me ....my height is about 6 feet , u need to be attain more to reach me.
 
 <!---
 kartik1600/kartik1600 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
